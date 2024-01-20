@@ -14,6 +14,8 @@ export default function LoginForm() {
         <h1 className={`${lusitana.className} mb-3 text-2xl`}>
           Please log in to continue.
         </h1>
+        <h1 className="text-blue-500">I'm blue!</h1>
+        <h1 className="text-blue-500">I'm blue!</h1>
         <div className="w-full">
           <div>
             <label
